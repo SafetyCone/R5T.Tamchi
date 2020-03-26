@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Richmond", "..\..\R5T.R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Tromso.ServiceProvider", "..\..\R5T.Tromso.ServiceProvider\source\R5T.Tromso.ServiceProvider\R5T.Tromso.ServiceProvider.csproj", "{FD583BCC-5B2D-4333-B406-0DF98F048FC2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Richmond.Types", "..\..\R5T.Richmond.Types\source\R5T.Richmond.Types\R5T.Richmond.Types.csproj", "{05CB8B01-219F-4E9D-A7CE-A1708CD68069}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -239,6 +241,18 @@ Global
 		{FD583BCC-5B2D-4333-B406-0DF98F048FC2}.Release|x64.Build.0 = Release|Any CPU
 		{FD583BCC-5B2D-4333-B406-0DF98F048FC2}.Release|x86.ActiveCfg = Release|Any CPU
 		{FD583BCC-5B2D-4333-B406-0DF98F048FC2}.Release|x86.Build.0 = Release|Any CPU
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069}.Debug|x64.Build.0 = Debug|Any CPU
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069}.Debug|x86.Build.0 = Debug|Any CPU
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069}.Release|x64.ActiveCfg = Release|Any CPU
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069}.Release|x64.Build.0 = Release|Any CPU
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069}.Release|x86.ActiveCfg = Release|Any CPU
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -259,6 +273,7 @@ Global
 		{CE05D970-3229-41CA-8068-1FEA70B5B90D} = {77765109-8C15-4ACF-8B24-8B167F6E06F6}
 		{DFE6212C-7AC8-4A67-B843-96304790298C} = {77765109-8C15-4ACF-8B24-8B167F6E06F6}
 		{FD583BCC-5B2D-4333-B406-0DF98F048FC2} = {77765109-8C15-4ACF-8B24-8B167F6E06F6}
+		{05CB8B01-219F-4E9D-A7CE-A1708CD68069} = {77765109-8C15-4ACF-8B24-8B167F6E06F6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E5E9B0A8-7B4E-40E2-8DB4-8C4C828BFCAF}
