@@ -13,7 +13,7 @@ namespace R5T.Tamchi
     {
         public static void SubMain(string[] args)
         {
-            var configurationServiceProvider = ServiceProviderHelper.GetEmptyServiceProvider();
+            var configurationServiceProvider = ServiceProviderHelper.GetNewEmptyServiceProvider();
 
             var host = Host.New().UseStartup<Startup02, IHost>(configurationServiceProvider);
 
